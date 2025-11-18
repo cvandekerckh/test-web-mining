@@ -1,2 +1,2 @@
-# test-web-mining
-A folder for testing the web mining course
+# Web Mining
+Here is a change I just made
